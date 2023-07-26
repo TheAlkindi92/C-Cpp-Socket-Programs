@@ -1,5 +1,4 @@
 Follow the following the instructions to run the Program:
-1 =>  Extract the given folder named xakiamin
 2 => Navigate to the Server Directory from terminal and write following command to compile:
         g++ server.cpp -o server
         ./server [port number e.g 2023
